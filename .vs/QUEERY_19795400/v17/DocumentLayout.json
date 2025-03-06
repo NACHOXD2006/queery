@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{3BEBB5EC-A850-43E3-8C78-511B6173CD89}|QUEERY_19795400\\QUEERY_19795400.csproj|solutionrelative:queery_19795400\\secionvariable.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3BEBB5EC-A850-43E3-8C78-511B6173CD89}|QUEERY_19795400\\QUEERY_19795400.csproj|c:\\users\\daniel\\onedrive\\documentos\\prca 3\\queery_19795400\\queery_19795400\\secionvariable.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{3BEBB5EC-A850-43E3-8C78-511B6173CD89}|QUEERY_19795400\\QUEERY_19795400.csproj|C:\\Users\\daniel\\OneDrive\\Documentos\\prca 3\\QUEERY_19795400\\queery_19795400\\secionvariable.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{3BEBB5EC-A850-43E3-8C78-511B6173CD89}|QUEERY_19795400\\QUEERY_19795400.csproj|solutionrelative:queery_19795400\\secionvariable.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3BEBB5EC-A850-43E3-8C78-511B6173CD89}|QUEERY_19795400\\QUEERY_19795400.csproj|c:\\users\\daniel\\onedrive\\documentos\\prca 3\\queery_19795400\\queery_19795400\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3BEBB5EC-A850-43E3-8C78-511B6173CD89}|QUEERY_19795400\\QUEERY_19795400.csproj|solutionrelative:queery_19795400\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3BEBB5EC-A850-43E3-8C78-511B6173CD89}|QUEERY_19795400\\QUEERY_19795400.csproj|C:\\Users\\daniel\\OneDrive\\Documentos\\prca 3\\QUEERY_19795400\\queery_19795400\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3BEBB5EC-A850-43E3-8C78-511B6173CD89}|QUEERY_19795400\\QUEERY_19795400.csproj|solutionrelative:queery_19795400\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3BEBB5EC-A850-43E3-8C78-511B6173CD89}|QUEERY_19795400\\QUEERY_19795400.csproj|c:\\users\\daniel\\onedrive\\documentos\\prca 3\\queery_19795400\\queery_19795400\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{3BEBB5EC-A850-43E3-8C78-511B6173CD89}|QUEERY_19795400\\QUEERY_19795400.csproj|solutionrelative:queery_19795400\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{3BEBB5EC-A850-43E3-8C78-511B6173CD89}|QUEERY_19795400\\QUEERY_19795400.csproj|C:\\Users\\daniel\\OneDrive\\Documentos\\prca 3\\QUEERY_19795400\\queery_19795400\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BEBB5EC-A850-43E3-8C78-511B6173CD89}|QUEERY_19795400\\QUEERY_19795400.csproj|solutionrelative:queery_19795400\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -44,7 +44,7 @@
               "RelativeDocumentMoniker": "QUEERY_19795400\\SecionVariable.aspx.cs",
               "ToolTip": "C:\\Users\\daniel\\OneDrive\\Documentos\\prca 3\\QUEERY_19795400\\QUEERY_19795400\\SecionVariable.aspx.cs",
               "RelativeToolTip": "QUEERY_19795400\\SecionVariable.aspx.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAuwBwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-06T22:16:48.562Z",
               "EditorCaption": ""
@@ -64,20 +64,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "WebForm1.aspx.cs",
               "DocumentMoniker": "C:\\Users\\daniel\\OneDrive\\Documentos\\prca 3\\QUEERY_19795400\\QUEERY_19795400\\WebForm1.aspx.cs",
               "RelativeDocumentMoniker": "QUEERY_19795400\\WebForm1.aspx.cs",
               "ToolTip": "C:\\Users\\daniel\\OneDrive\\Documentos\\prca 3\\QUEERY_19795400\\QUEERY_19795400\\WebForm1.aspx.cs",
               "RelativeToolTip": "QUEERY_19795400\\WebForm1.aspx.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAcwCEAAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAwwCEAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-06T22:12:21.38Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "WebForm1.aspx",
               "DocumentMoniker": "C:\\Users\\daniel\\OneDrive\\Documentos\\prca 3\\QUEERY_19795400\\QUEERY_19795400\\WebForm1.aspx",
               "RelativeDocumentMoniker": "QUEERY_19795400\\WebForm1.aspx",
